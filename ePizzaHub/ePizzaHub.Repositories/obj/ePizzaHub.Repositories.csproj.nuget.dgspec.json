@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj": {}
+    "C:\\Users\\eesir\\OneDrive\\Belgeler\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj": {
+    "C:\\Users\\eesir\\OneDrive\\Belgeler\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\eesir\\OneDrive\\Belgeler\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj",
         "projectName": "ePizzaHub.Entities",
-        "projectPath": "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj",
-        "packagesPath": "C:\\Users\\batuh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Entities\\obj\\",
+        "projectPath": "C:\\Users\\eesir\\OneDrive\\Belgeler\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj",
+        "packagesPath": "C:\\Users\\eesir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eesir\\OneDrive\\Belgeler\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\batuh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eesir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj": {
+    "C:\\Users\\eesir\\OneDrive\\Belgeler\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\eesir\\OneDrive\\Belgeler\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj",
         "projectName": "ePizzaHub.Repositories",
-        "projectPath": "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj",
-        "packagesPath": "C:\\Users\\batuh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Repositories\\obj\\",
+        "projectPath": "C:\\Users\\eesir\\OneDrive\\Belgeler\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj",
+        "packagesPath": "C:\\Users\\eesir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eesir\\OneDrive\\Belgeler\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\batuh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eesir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj": {
-                "projectPath": "C:\\Users\\batuh\\OneDrive\\Masaüstü\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj"
+              "C:\\Users\\eesir\\OneDrive\\Belgeler\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj": {
+                "projectPath": "C:\\Users\\eesir\\OneDrive\\Belgeler\\Web-Programlama-Proje\\ePizzaHub\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj"
               }
             }
           }
@@ -138,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

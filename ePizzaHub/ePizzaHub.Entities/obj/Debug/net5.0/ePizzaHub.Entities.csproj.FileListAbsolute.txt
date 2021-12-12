@@ -1,0 +1,12 @@
+C:\Users\batuh\OneDrive\Masaüstü\Web-Programlama-Proje\ePizzaHub\ePizzaHub.Entities\bin\Debug\net5.0\ePizzaHub.Entities.deps.json
+C:\Users\batuh\OneDrive\Masaüstü\Web-Programlama-Proje\ePizzaHub\ePizzaHub.Entities\bin\Debug\net5.0\ePizzaHub.Entities.dll
+C:\Users\batuh\OneDrive\Masaüstü\Web-Programlama-Proje\ePizzaHub\ePizzaHub.Entities\bin\Debug\net5.0\ref\ePizzaHub.Entities.dll
+C:\Users\batuh\OneDrive\Masaüstü\Web-Programlama-Proje\ePizzaHub\ePizzaHub.Entities\bin\Debug\net5.0\ePizzaHub.Entities.pdb
+C:\Users\batuh\OneDrive\Masaüstü\Web-Programlama-Proje\ePizzaHub\ePizzaHub.Entities\obj\Debug\net5.0\ePizzaHub.Entities.csproj.AssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\Web-Programlama-Proje\ePizzaHub\ePizzaHub.Entities\obj\Debug\net5.0\ePizzaHub.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\OneDrive\Masaüstü\Web-Programlama-Proje\ePizzaHub\ePizzaHub.Entities\obj\Debug\net5.0\ePizzaHub.Entities.AssemblyInfoInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\Web-Programlama-Proje\ePizzaHub\ePizzaHub.Entities\obj\Debug\net5.0\ePizzaHub.Entities.AssemblyInfo.cs
+C:\Users\batuh\OneDrive\Masaüstü\Web-Programlama-Proje\ePizzaHub\ePizzaHub.Entities\obj\Debug\net5.0\ePizzaHub.Entities.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\Web-Programlama-Proje\ePizzaHub\ePizzaHub.Entities\obj\Debug\net5.0\ePizzaHub.Entities.dll
+C:\Users\batuh\OneDrive\Masaüstü\Web-Programlama-Proje\ePizzaHub\ePizzaHub.Entities\obj\Debug\net5.0\ref\ePizzaHub.Entities.dll
+C:\Users\batuh\OneDrive\Masaüstü\Web-Programlama-Proje\ePizzaHub\ePizzaHub.Entities\obj\Debug\net5.0\ePizzaHub.Entities.pdb
